@@ -1,0 +1,90 @@
+Asthma
+Diabetes
+Hypertension
+Arthritis
+Influenza (Flu)
+Pneumonia
+Tuberculosis
+Hepatitis
+Cancer
+Stroke
+Alzheimer’s disease
+Parkinson’s disease
+Migraine
+Depression
+Anxiety disorder
+Schizophrenia
+Bipolar disorder
+Chronic obstructive pulmonary disease (COPD)
+Cystic fibrosis
+Sickle cell anemia
+Anemia
+Malaria
+Dengue fever
+Lyme disease
+HIV/AIDS
+Syphilis
+Gonorrhea
+Chickenpox
+Measles
+Meningitis
+Eczema
+Psoriasis
+Lupus
+Multiple sclerosis (MS)
+Epilepsy
+Glaucoma
+Cataracts
+Gastroesophageal reflux disease (GERD)
+Crohn’s disease
+Ulcerative colitis
+Irritable bowel syndrome (IBS)
+Appendicitis
+Osteoporosis
+Gout
+Polycystic ovary syndrome (PCOS)
+Endometriosis
+Obesity
+Hyperthyroidism
+Hypothyroidism
+Prostate cancer
+Breast cancer
+Leukemia
+Pancreatitis
+Hepatitis C
+Mononucleosis
+Sepsis
+Whooping cough (Pertussis)
+Tetanus
+Rabies
+Scabies
+Smallpox
+Zika virus
+Ebola virus
+Yellow fever
+Cholera
+Typhoid fever
+Plague (Bubonic plague)
+Scarlet fever
+Diphtheria
+Polio (Poliomyelitis)
+Legionnaires' disease
+Hepatitis A
+Hepatitis B
+Shingles (Herpes zoster)
+Herpes simplex
+Celiac disease
+Hemophilia
+Deep vein thrombosis (DVT)
+Atrial fibrillation (AFib)
+Cardiomyopathy
+Heart failure
+Kidney stones
+Chronic kidney disease (CKD)
+Gallstones
+Peptic ulcer disease
+Barrett’s esophagus
+Diverticulitis
+Hemorrhoids
+Varicose veins
+Raynaud’s disease
