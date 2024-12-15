@@ -1,4 +1,4 @@
-# Patient Management System
+# Patient Generator System
 
 This project is a simple Patient Management System implemented in Python using the pandas library. It allows users to manage patient records by adding patient data and viewing stored information. The data is saved in a CSV file for easy persistence and manipulation.
 
