@@ -66,8 +66,7 @@ To run this project, you need:
 1. **Main Menu**:
 
    - `[1] Add Patients`: Randomly generates patient data and appends it to the CSV file.
-   - `[2] View Patients`: Displays the contents of the `patient_data.csv` file.
-   - `[3] Exit`: Exits the program.
+   - `[2] Exit`: Exits the program.
 
 2. Follow the on-screen prompts to interact with the application.
 
