@@ -33,13 +33,13 @@ To run this project, you need:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/patient-management-system.git
+   git clone https://github.com/Str1k3rFl0/PatientDataGenerator.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd patient-management-system
+   cd PatientDataGenerator
    ```
 
 3. Install the required Python libraries:
@@ -121,15 +121,5 @@ To contribute:
    ```
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Author
-
-[Your Name](https://github.com/your-username)
-
-## Acknowledgements
-
-Special thanks to the Python community and pandas documentation for their guidance in building this project.
-
+Str1k3rFl0
